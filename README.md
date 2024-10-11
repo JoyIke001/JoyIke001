@@ -1,6 +1,6 @@
-###  Hi there 👋🏼
-## This is Joy @JoyIke001
-### I’m fiercely passionate about Cloud Security, DevOps & Data Engineering
+### 👋🏼 Hi,
+## This is Joy Ike
+### I am fiercely passionate about Cloud Security, DevOps & Data Engineering
 ###  I’m currently learning Data Science 
 ## Skills
 ### Cloud Security: IAM, Networking, Logging & Monitoring, Linux server admin, Threat Modelling, Severless computing.
