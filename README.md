@@ -1,5 +1,5 @@
 ### 👋🏼 Hi,
-## This is Joy Ike
+## This is Joy
 ### I am fiercely passionate about Cloud Security, DevOps & Data Engineering
 ###  I’m currently learning Data Science 
 ## Skills
