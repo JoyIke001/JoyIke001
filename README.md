@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+###  Hi there 👋🏼
 ## This is Joy @JoyIke001
 ### I’m fiercely passionate about Cloud Security, DevOps & Data Engineering
 ###  I’m currently learning Data Science 
@@ -11,7 +11,7 @@
 ### Tools & Technologies: Git, VS code, GCP, Azure
 ### Reach me
 ### Email: (joyike777@gmail.com) 
-### LinkedIn: (www.linkedin.com/in/joy-ezinwanneamaka-ike-87498a1b9)
+### [LinkedIn](www.linkedin.com/in/joy-ezinwanneamaka-ike-87498a1b9)
 ### Pronouns: She/Her
 ### ⚡ Fun fact: I learn something NEW everyday
 
