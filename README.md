@@ -6,7 +6,7 @@
 ### Cloud Security: IAM, Networking, Logging & Monitoring, Linux server admin, Threat Modelling, Severless computing.
 ### DevOps: Iac (Terraform), Ansible, Kubernetes, Prometheus, Docker.
 ### Data Engineering: ETL Processes, Data Warehousing, Big Data Technologies (Spark)
-### Databases: MySQL, PostgreSQL,NoSQL.
+### Databases: MySQL, PostgreSQL,Microsoft SQL Server, NoSQL.
 ### Programming languages: Python, SQL.
 ### Tools & Technologies: Git, VS code, GCP, Azure
 ### Reach me
