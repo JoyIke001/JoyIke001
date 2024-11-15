@@ -1,7 +1,7 @@
 ### 👋🏼 Hi,
 ## This is Joy
 ### I am fiercely passionate about Cloud Security, DevOps & Data Engineering
-###  I’m currently learning Data Science 
+###  I’m currently advancing my skills in Data Engineering
 ## Skills
 ### Cloud Security: IAM, Networking, Logging & Monitoring, Linux server admin, Threat Modelling, Severless computing.
 ### DevOps: Iac (Terraform), Ansible, Kubernetes, Prometheus, Docker.
