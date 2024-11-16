@@ -1,6 +1,6 @@
 ### 👋🏼 Hi,
 ## This is Joy
-### I am fiercely passionate about Cloud Security, DevOps & Data Engineering
+### I am passionate about Cloud Security & DevOps 
 ## Skills
 ### Cloud Security: IAM, Networking, Logging & Monitoring, Linux server admin, Threat Modelling, Severless computing.
 ### DevOps: Iac (Terraform), Ansible, Kubernetes, Prometheus, Docker.
